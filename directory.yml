@@ -19,4 +19,17 @@
     - Participation
     - Collaboration
     - BC Government
-  url: https://github.com/BCDevExchange/Community-Tools
+  url: https://github.com/BCDevExchange/BCDevExchange-Programs/blob/master/Programs/test.md
+
+- 
+  title: Test title
+  description: Test description
+  owner: BCDevExchange
+  tags: 
+    - Tag1
+    - Tag2
+    - Tag3
+    - Participation
+    - Collaboration
+    - BC Government
+  url: https://bcdevexchange.org/home
