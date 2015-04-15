@@ -120,8 +120,34 @@ Agile / Scrum
  - Data Z
 
 ##Pathways to Rapid Adoption
-
+May want to consider different ways of displaying this information, such as referencing static data.
 <!--- there's some stuff here that appears somewhat boiler plate in nature. we might want to explore how we could reference boiler plate content separately, such as hardcoded HTML, or linking to content hosted on BCDevExchange.org --->
+
+### 1. Challenges and Contests
+- Prize award with option to sprint with us
+ - Multicultural / multilanguage support OPEN
+ - 
+### 2. Sprint With Us
+Tier 1: Zero fee contribution (earns "adoption capability points")
+ - Wordpress 10.0 to 15.0 conversion
+
+Tier 2: $$$ per sprint (if at least 100 "adoption capability points" and basic certifications)
+ - Youth engagement: sprint 12, May 10
+
+### 3. Direct Push of Contribution or Solution
+Create / Manage your listings
+Tier 1: Zero fee, open IP, disclaimed assurances (earns "adoption capability points")
+Tier 2: $$$
+Tier 3: ...
+
+### 4.Discovery Trial or Test
+Create / Manage your listings
+Plan 1: Zero fee, open report
+Plan 2: ...
+Plan 3: ...
+
+
+
 
 
 
