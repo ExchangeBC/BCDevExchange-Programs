@@ -68,3 +68,18 @@ Agile / Scrum
  - Current Sprint
  - Backlog
  - Completed
+
+###Apps and webAPIs
+- webAPIs
+ - Delivery State
+ - Exploration State
+ - Inspiration State
+
+- Websites and apps
+ - listins by state
+
+- Mobile, phone, tablet apps
+ - listings by state
+ 
+- Desktop apps
+ - listings by state
