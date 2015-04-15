@@ -29,8 +29,13 @@ The goal is to let people know what's being talked about in the province and plu
 - Person-on-the-street perspectives (video)
 
 ###Blog
+- Data Y has been moved to Exploration stage, and now available in the Labs
+- randomcompany.com released a project based on webAPIs from GovTogetherBC
 
 ###You've got mail
+- 2 Direct push listings need attention
+- 1 Exporation trial request needs attention
+- 1 Sprint with use request needs attention
 
 ##Digital Resources
 
@@ -83,3 +88,58 @@ Agile / Scrum
  
 - Desktop apps
  - listings by state
+
+###Code, SDKs, Reference
+- Source code
+- SDKs and programming guides
+- Reference implementations and integrations
+
+- gitmachines and govready starter kits
+
+- Delivery state
+- Exploration state
+- Research state
+
+###Data 
+- Delivery state
+ - Open data
+ - Controlled access data
+ - Restricted data
+ - For use in analytics
+
+- Explporation state
+ - In the labs
+
+- Inspiration state
+ - Access is being considered
+
+- Potentially available based on interest and value
+ - Data X
+ - Data Y
+ - Data Z
+
+##Pathways to Rapid Adoption
+
+<!--- there's some stuff here that appears somewhat boiler plate in nature. we might want to explore how we could reference boiler plate content separately, such as hardcoded HTML, or linking to content hosted on BCDevExchange.org --->
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
