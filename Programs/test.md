@@ -8,30 +8,30 @@ text following will be rendered as normal text paragraph
 ---> 
 
 
-#GovTogetherBC
-GovTogetherBC is the hub for government engagement opportunities that need people to participate - to listen, get informed, and speak up.
-It supports the government in its objective to become more transparent and accessible.
-The goal is to let people know what's being talked about in the province and plug them into ways they can get involved.
+#Example Program
+Example Program is an example program that is trying to encourange engagement with things - to listen, get informed, and speak up.
+It supports the Program Owner in its objective to become more transparent and accessible.
+The Program goal is to let people know what's being talked and help them get involved.
 
 ##At a Glance
 <!--- this contains all of the stuff on the first page, dashboard / roll up information --->
 
 ###New
-- Contest for supporting multilanguage engagement
+- Contest for supporting engagement
 - webAPI spec for geolocated anonymized users published as a BCDevExchange Exploration Draft 
 
 ###Trending / Popular
-- v1 wordpress sortware framework on GitHub
+- v1 sortware framework on GitHub
 - Day-in-the-life persona video
 
 ###Showcase
 - Smartphone apps increase engagement, see the results from the latest trial
-- GovTogetherBC "winning" (because of you)
+- Our Example Program is "winning" (because of you)
 - Person-on-the-street perspectives (video)
 
 ###Blog
 - Data Y has been moved to Exploration stage, and now available in the Labs
-- randomcompany.com released a project based on webAPIs from GovTogetherBC
+- randomcompany.com released a project based on webAPIs from Example Program
 
 ###You've got mail
 - 2 Direct push listings need attention
@@ -95,7 +95,7 @@ Agile / Scrum
 - SDKs and programming guides
 - Reference implementations and integrations
 
-- gitmachines and govready starter kits
+- gitmachines and developer starter kits
 
 - Delivery state
 - Exploration state
@@ -125,11 +125,11 @@ May want to consider different ways of displaying this information, such as refe
 
 ### 1. Challenges and Contests
 - Prize award with option to sprint with us
- - Multicultural / multilanguage support OPEN
+ - Engagement support OPEN
  - 
 ### 2. Sprint With Us
 Tier 1: Zero fee contribution (earns "adoption capability points")
- - Wordpress 10.0 to 15.0 conversion
+ - Version 1.0 to 5.0 conversion
 
 Tier 2: $$$ per sprint (if at least 100 "adoption capability points" and basic certifications)
  - Youth engagement: sprint 12, May 10
