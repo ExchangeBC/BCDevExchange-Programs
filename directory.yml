@@ -1,0 +1,22 @@
+--- 
+
+# A Program Record
+#- 
+#  title:    #user friendly title for the program, suitable for display on BCDevExchange.org
+#  description:    #user friendly description of the program, suitable for display on BCDevExchange.org
+#  owner:     #the owner of the program
+#  tags:     #any tags you want to associate with this project
+#  url:    #complete url of the program location in GitHub (repo url). 
+
+- 
+  title: GovTogetherBC
+  description: GovTogetherBC is the hub for government engagement opportunitities that need people to participate - to listen, get informed, and speak up.
+  owner: BC Government
+  tags: 
+    - GovTogetherBC
+    - BC Government
+    - Engagement
+    - Participation
+    - Collaboration
+    - BC Government
+  url: https://github.com/BCDevExchange/Community-Tools
