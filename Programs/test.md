@@ -136,14 +136,20 @@ Tier 2: $$$ per sprint (if at least 100 "adoption capability points" and basic c
 
 ### 3. Direct Push of Contribution or Solution
 Create / Manage your listings
+
 Tier 1: Zero fee, open IP, disclaimed assurances (earns "adoption capability points")
+
 Tier 2: $$$
+
 Tier 3: ...
 
 ### 4.Discovery Trial or Test
 Create / Manage your listings
+
 Plan 1: Zero fee, open report
+
 Plan 2: ...
+
 Plan 3: ...
 
 
