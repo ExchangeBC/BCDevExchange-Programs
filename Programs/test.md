@@ -38,11 +38,33 @@ The goal is to let people know what's being talked about in the province and plu
 - Service Journey Maps
  - Current State
  - Future State
+
 - Personas
  - Read about them
  - Day-in-the-life videos
     - Current State
     - Future State
+
 - Use Cases
 
+###Service Delivery Perspective
 
+- Keynotes and presentations
+
+- Interviews with program staff and management
+ 
+- Q's and A's
+
+- Be with us - in person
+ - Discovery Days
+ - Information sessions
+ - Attending events
+
+###Roadmaps
+Agile / Scrum
+- Backlog of Epics not having user stories
+
+- Backlog of User Stories
+ - Current Sprint
+ - Backlog
+ - Completed
