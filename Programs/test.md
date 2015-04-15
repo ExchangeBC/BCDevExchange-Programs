@@ -126,7 +126,7 @@ May want to consider different ways of displaying this information, such as refe
 ### 1. Challenges and Contests
 - Prize award with option to sprint with us
  - Engagement support OPEN
- - 
+
 ### 2. Sprint With Us
 Tier 1: Zero fee contribution (earns "adoption capability points")
  - Version 1.0 to 5.0 conversion
