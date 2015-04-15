@@ -14,6 +14,7 @@ It supports the government in its objective to become more transparent and acces
 The goal is to let people know what's being talked about in the province and plug them into ways they can get involved.
 
 ##At a Glance
+<!--- this contains all of the stuff on the first page, dashboard / roll up information --->
 
 ###New
 - Contest for supporting multilanguage engagement
@@ -38,7 +39,7 @@ The goal is to let people know what's being talked about in the province and plu
 - 1 Sprint with use request needs attention
 
 ##Digital Resources
-
+<!--- this is the main part of the page. --->
 ###The Service Experience
 - Service Journey Maps
  - Current State
