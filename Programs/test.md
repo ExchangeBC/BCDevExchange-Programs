@@ -71,7 +71,7 @@ The Program goal is to let people know what's being talked and help them get inv
     - Current State
     - Future State
 
-- Use Cases
+- [Use Cases](https://bcdevexchange.org/#/projects)
 
 <!---[col end]--->
 
