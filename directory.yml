@@ -21,7 +21,7 @@
     - Collaboration
     - BC Government
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/test.md
-  make visible: yes 
+  visible: yes 
 
 - 
   title: Test title
@@ -35,4 +35,16 @@
     - Collaboration
     - BC Government
   url: https://bcdevexchange.org/home
-  make visible: no
+  visible: yes
+  
+ - 
+  title: Hidden project
+  description: If you can see this, the filter isn't working
+  owner: BCDevExchange
+  tags: 
+    - Tag1
+    - Tag2
+    - Tag3
+  url: https://bcdevexchange.org/home
+  visible: no
+  
