@@ -15,9 +15,9 @@ The Program goal is to let people know what's being talked and help them get inv
 ##At a Glance
 <!--- this contains all of the stuff on the first page, dashboard / roll up information --->
 
-[row start] 
+<!---[row start]---> 
 
-[col start]
+<!---[col start]--->
 
 ###New
 - Contest for supporting engagement
@@ -27,9 +27,9 @@ The Program goal is to let people know what's being talked and help them get inv
 - v1 sortware framework on GitHub
 - Day-in-the-life persona video
 
-[col end]
+<!---[col end]--->
 
-[col start]
+<!---[col start]--->
 
 ###Showcase
 - Smartphone apps increase engagement, see the results from the latest trial
@@ -40,25 +40,25 @@ The Program goal is to let people know what's being talked and help them get inv
 - Data Y has been moved to Exploration stage, and now available in the Labs
 - randomcompany.com released a project based on webAPIs from Example Program
 
-[col end]
+<!---[col end]--->
 
-[col start]
+<!---[col start]--->
 
 ###You've got mail
 - 2 Direct push listings need attention
 - 1 Exporation trial request needs attention
 - 1 Sprint with use request needs attention
 
-[col end]
+<!---[col end]--->
 
-[row end]
+<!---[row end]--->
 
 ##Digital Resources
 <!--- this is the main part of the page. --->
 
-[row start] 
+<!---[row start]--->  
 
-[col start]
+<!---[col start]--->
 
 ###The Service Experience
 - Service Journey Maps
@@ -73,9 +73,9 @@ The Program goal is to let people know what's being talked and help them get inv
 
 - Use Cases
 
-[col end]
+<!---[col end]--->
 
-[col start]
+<!---[col start]--->
 
 ###Service Delivery Perspective
 
@@ -90,9 +90,9 @@ The Program goal is to let people know what's being talked and help them get inv
  - Information sessions
  - Attending events
 
-[col end]
+<!---[col end]--->
 
-[col start]
+<!---[col start]--->
 
 ###Roadmaps
 Agile / Scrum
@@ -103,13 +103,13 @@ Agile / Scrum
  - Backlog
  - Completed
 
-[col end]
+<!---[col end]--->
 
-[row end]
+<!---[row end]---> 
 
-[row start]
+<!---[row start]--->
 
-[col start]
+<!---[col start]--->
 
 ###Apps and webAPIs
 - webAPIs
@@ -126,9 +126,9 @@ Agile / Scrum
 - Desktop apps
  - listings by state
 
-[col end]
+<!---[col end]--->
 
-[col start]
+<!---[col start]--->
 
 ###Code, SDKs, Reference
 - Source code
@@ -141,9 +141,9 @@ Agile / Scrum
 - Exploration state
 - Research state
 
-[col end]
+<!---[col end]--->
 
-[col start]
+<!---[col start]--->
 
 ###Data 
 - Delivery state
@@ -163,18 +163,18 @@ Agile / Scrum
  - Data Y
  - Data Z
 
-[col end]
+<!---[col end]--->
 
-[row end]
+<!---[row end]---> 
 
 ##Pathways to Rapid Adoption
 
 Ways your contribution can be adopted by the Program Owner.
 <!--- there's some stuff here that appears somewhat boiler plate in nature. we might want to explore how we could reference boiler plate content separately, such as hardcoded HTML, or linking to content hosted on BCDevExchange.org --->
 
-[row start]
+<!---[row start]---> 
 
-[col start]
+<!---[col start]--->
 
 ### 1. Challenges and Contests
 - Prize award with option to sprint with us
@@ -187,9 +187,9 @@ Tier 1: Zero fee contribution (earns "adoption capability points")
 Tier 2: $$$ per sprint (if at least 100 "adoption capability points" and basic certifications)
  - Youth engagement: sprint 12, May 10
 
-[col end]
+<!---[col end]--->
 
-[col start]
+<!---[col start]--->
 
 ### 3. Direct Push of Contribution or Solution
 Create / Manage your listings
@@ -209,9 +209,9 @@ Plan 2: ...
 
 Plan 3: ...
 
-[col end]
+<!---[col end]--->
 
-[row end]
+<!---[row end]---> 
 
 
 
