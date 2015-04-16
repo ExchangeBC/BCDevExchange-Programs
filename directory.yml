@@ -7,6 +7,7 @@
 #  owner:     #the owner of the program
 #  tags:     #any tags you want to associate with this project
 #  url:    #complete url of the program location in GitHub (repo url). 
+#  visible:    if yes, then it displays in the directory. if no, then it does not.
 
 - 
   title: GovTogetherBC
