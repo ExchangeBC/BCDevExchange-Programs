@@ -83,7 +83,7 @@ The Program goal is to let people know what's being talked and help them get inv
 
 - Interviews with program staff and management
  
-- Q's and A's
+- [Q's and A's](http://blog.data.gov.bc.ca/)
 
 - Be with us - in person
  - Discovery Days
@@ -112,13 +112,13 @@ Agile / Scrum
 <!---[col start]--->
 
 ###Apps and webAPIs
-- webAPIs
- - Delivery State
+- [webAPIs](https://bcdevexchange.org/#/resources)
+ - Delivery State 
  - Exploration State
  - Inspiration State
 
 - Websites and apps
- - listins by state
+ - listings by state
 
 - Mobile, phone, tablet apps
  - listings by state
@@ -131,7 +131,7 @@ Agile / Scrum
 <!---[col start]--->
 
 ###Code, SDKs, Reference
-- Source code
+- [Source code](https://github.com/BCDevExchange)
 - SDKs and programming guides
 - Reference implementations and integrations
 
