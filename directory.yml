@@ -21,6 +21,7 @@
     - Collaboration
     - BC Government
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/test.md
+  make visible: yes 
 
 - 
   title: Test title
@@ -34,3 +35,4 @@
     - Collaboration
     - BC Government
   url: https://bcdevexchange.org/home
+  make visible: no
