@@ -1,51 +1,51 @@
---- 
+---
 
 # A Program Record
-#- 
+#-
 #  title:    #user friendly title for the program, suitable for display on BCDevExchange.org
 #  description:    #user friendly description of the program, suitable for display on BCDevExchange.org
 #  owner:     #the owner of the program
 #  tags:     #any tags you want to associate with this project
-#  url:    #complete url of the program location in GitHub (repo url). 
+#  url:    #complete url of the program location in GitHub (repo url).
 #  visible:    if yes, then it displays in the directory. if no, then it does not.
 
-- 
+-
   title: GovTogetherBC
   description: GovTogetherBC is the hub for government engagement opportunitities that need people to participate - to listen, get informed, and speak up.
   owner: BC Government
   logo: https://raw.githubusercontent.com/BCDevExchange/BCDevExchange-Programs/master/Logos/govtogetherbc.png
-  tags: 
+  tags:
     - GovTogetherBC
     - BC Government
     - Engagement
     - Participation
     - Collaboration
     - BC Government
-  url: BCDevExchange/BCDevExchange-Programs/contents/Programs/test.md
-  visible: yes 
+  url: BCDevExchange/BCDevExchange-Programs/contents/Programs/govtogetherbc.md
+  visible: yes
 
-- 
+-
   title: Test title
   description: Test description
   owner: BCDevExchange
-  tags: 
+  tags:
     - Tag1
     - Tag2
     - Tag3
     - Participation
     - Collaboration
     - BC Government
-  url: https://bcdevexchange.org/home
+  url: BCDevExchange/BCDevExchange-Programs/contents/Programs/test.md
   visible: yes
-  
-- 
+
+-
   title: Hidden project
   description: If you can see this, the filter isn't working
   owner: BCDevExchange
-  tags: 
+  tags:
     - please
     - hide
     - me
   url: https://bcdevexchange.org/home
   visible: no
-  
+
