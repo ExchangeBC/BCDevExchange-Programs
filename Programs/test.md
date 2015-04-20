@@ -9,7 +9,7 @@ text following will be rendered as normal text paragraph
 
 #Example Program
 
-![1](../images/1.png)
+![1](../logos/govtogetherbc.png)
 
 Example Program is an example program that is trying to encourange engagement with things - to listen, get informed, and speak up.
 It supports the Program Owner in its objective to become more transparent and accessible.
