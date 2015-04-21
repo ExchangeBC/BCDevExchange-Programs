@@ -10,18 +10,16 @@
 #  visible:    if yes, then it displays in the directory. if no, then it does not.
 
 -
-  title: GovTogetherBC
-  description: GovTogetherBC is the hub for government engagement opportunitities that need people to participate - to listen, get informed, and speak up.
-  owner: BC Government
+  title: Example Program
+  description: Example Program is the hub for engagement opportunitities that need people to participate - to listen, get informed, and speak up.
+  owner: BCDevExchange
   logo: https://raw.githubusercontent.com/BCDevExchange/BCDevExchange-Programs/master/Logos/govtogetherbc.png
   tags:
-    - GovTogetherBC
-    - BC Government
     - Engagement
     - Participation
     - Collaboration
     - BC Government
-  url: BCDevExchange/BCDevExchange-Programs/contents/Programs/govtogetherbc.md
+  url: BCDevExchange/BCDevExchange-Programs/contents/Programs/exampleprogram.md
   visible: yes
 
 -
@@ -46,6 +44,6 @@
     - please
     - hide
     - me
-  url: https://bcdevexchange.org/home
+  url: BCDevExchange/BCDevExchange-Programs/contents/Programs/test.md
   visible: no
 
