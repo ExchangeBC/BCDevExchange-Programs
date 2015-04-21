@@ -12,6 +12,8 @@ This is a test for Markdown capabilities.
 
 This sentence has some *emphasis*, and it also **embiggens** the smallest man.
 
+I like to use greater than > or less than < symbols.
+
 ~~Mistaken text.~~
 
 Here is some cool `monospaced` text.
@@ -119,7 +121,13 @@ Content Cell  | Content Cell
 
 # Injection
 
-Filtered out:
+Filtered out or encoded:
 
 <script>alert('bad')</script>
 %fe%22
+%fd%22
+%cd%22
+%c1%22
+%c0%a2
+%80%22
+%22
