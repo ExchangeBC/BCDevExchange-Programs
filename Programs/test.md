@@ -118,4 +118,8 @@ Content Cell  | Content Cell
 :sunglasses:
 
 # Injection
+
+Filtered out:
+
 <script>alert('bad')</script>
+%fe%22
