@@ -23,21 +23,20 @@ Markdown files placed in the folder `/Programs/`.  The BCDevExchange app read th
 
 We support the following most vanilla markdown:
 
-- Header 1-6
-- Paragraph
+- header 1-6
+- paragraph
 - bold, italics, strike-through, mono-space text
 - bullet lists, nested lists, numbered lists
 - images (SHOULD use HTTPS)
 - links
-- Blockquotes
-- Code blocks
+- blockquotes
+- code blocks
 
 Unsupported markdown (GitHub flavoured):
 
-- Tables
-- Emoji
-- Auto linking
-- @people
+- tables
+- emoji
+- auto linking, e.g., @people
 
 Extended markdown for layout purposes:
 
