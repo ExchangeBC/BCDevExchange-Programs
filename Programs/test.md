@@ -119,7 +119,7 @@ Content Cell  | Content Cell
 :smiley:
 :sunglasses:
 
-# Injection
+# Injection is not allowed
 
 Filtered out or encoded:
 
