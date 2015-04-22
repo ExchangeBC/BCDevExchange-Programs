@@ -43,6 +43,10 @@ The Program goal is to let people know what's being talked and help them get inv
 
 <!---[col end]--->
 
+<!---[row end]--->
+
+<!---[row start]--->
+
 <!---[col start]--->
 
 ###Blog
