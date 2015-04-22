@@ -24,6 +24,10 @@ The Program goal is to let people know what's being talked and help them get inv
 - Contest for supporting engagement
 - webAPI spec for geolocated anonymized users published as a BCDevExchange Exploration Draft 
 
+<!---[col end]--->
+
+<!---[col start]--->
+
 ###Trending / Popular
 - v1 sortware framework on GitHub
 - Day-in-the-life persona video
@@ -36,6 +40,10 @@ The Program goal is to let people know what's being talked and help them get inv
 - Smartphone apps increase engagement, see the results from the latest trial
 - Our Example Program is "winning" (because of you)
 - Person-on-the-street perspectives (video)
+
+<!---[col end]--->
+
+<!---[col start]--->
 
 ###Blog
 - Data Y has been moved to Exploration stage, and now available in the Labs
@@ -51,6 +59,10 @@ The Program goal is to let people know what's being talked and help them get inv
 - 1 Sprint with use request needs attention
 
 <!---[col end]--->
+
+<!---[col end]--->
+
+<!---[col start]--->
 
 <!---[row end]--->
 
