@@ -136,6 +136,7 @@ Extended markdown for layout purposes.
 [row start]
 [col start]
 First column
+----------
 [col end]
 [col start]
 Second column
