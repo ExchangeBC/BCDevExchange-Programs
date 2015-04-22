@@ -31,6 +31,7 @@ We support the following most vanilla markdown:
 - links
 - blockquotes
 - code blocks
+- horizontal rule
 
 Unsupported markdown (GitHub flavoured):
 
