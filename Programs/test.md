@@ -47,7 +47,9 @@ This is an image!
 ## Horizontal Rule
 
 Before
+
 ----------
+
 After
 
 ## Checklist
