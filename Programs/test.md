@@ -21,6 +21,81 @@ Here is some cool `monospaced` text.
 This is an image!
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+## Columns
+
+Extended markdown for layout purposes.
+
+### Two Column layout
+
+[row start]
+[col start]
+First column
+[col end]
+[col start]
+Second column
+[col end]
+[row end]
+
+### Three Column Layout
+[row start]
+[col start]
+First column
+[col end]
+[col start]
+Second column
+[col end]
+[col start]
+Third column
+[col end]
+[row end]
+
+### Four Column Layout
+[row start]
+[col start]
+First column
+[col end]
+[col start]
+Second column
+[col end]
+[col start]
+Third column
+[col end]
+[col start]
+Fourth column
+[col end]
+[row end]
+
+### Empty Columns
+[row start]
+[col start]
+[col end]
+[col start]
+Second column
+[col end]
+[col start]
+Third column
+[col end]
+[col start]
+[col end]
+[row end]
+
+### Multi Row Columns
+[row start]
+[col start]
+[col end]
+[col start]
+Second column
+[col end]
+[row end]
+[row start]
+[col start]
+First column
+[col end]
+[col start]
+[col end]
+[row end]
+
+
 ## Lists
 - This
 - is
@@ -126,80 +201,6 @@ Content Cell  | Content Cell
 
 :smiley:
 :sunglasses:
-
-## Columns
-
-Extended markdown for layout purposes.
-
-### Two Column layout
-
-[row start]
-[col start]
-First column
-[col end]
-[col start]
-Second column
-[col end]
-[row end]
-
-### Three Column Layout
-[row start]
-[col start]
-First column
-[col end]
-[col start]
-Second column
-[col end]
-[col start]
-Third column
-[col end]
-[row end]
-
-### Four Column Layout
-[row start]
-[col start]
-First column
-[col end]
-[col start]
-Second column
-[col end]
-[col start]
-Third column
-[col end]
-[col start]
-Fourth column
-[col end]
-[row end]
-
-### Empty Columns
-[row start]
-[col start]
-[col end]
-[col start]
-Second column
-[col end]
-[col start]
-Third column
-[col end]
-[col start]
-[col end]
-[row end]
-
-### Multi Row Columns
-[row start]
-[col start]
-[col end]
-[col start]
-Second column
-[col end]
-[row end]
-[row start]
-[col start]
-First column
-[col end]
-[col start]
-[col end]
-[row end]
 
 ## Injection is not allowed
 
