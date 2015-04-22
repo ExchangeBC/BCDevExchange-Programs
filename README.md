@@ -23,7 +23,7 @@ Markdown files placed in the folder `/Programs/`.  The BCDevExchange app read th
 
 We support the following most vanilla markdown:
 
-- header 1-6
+- header 2-6 (header 1 reserved for page title)
 - paragraph
 - bold, italics, strike-through, mono-space text
 - bullet lists, nested lists, numbered lists
@@ -49,6 +49,8 @@ Extended markdown for layout purposes:
 	- Declares the end of a distinct column. Subsequent [col start] can be declared.
 - [row end]
 	- Declares the end of a distinct row. Unless another row is declared, subsequent content will display in full page width.
+
+- We automatically generate a table of contents menu for you if you use ## (header 2) markdown.  
 
 *Note: row and col are converted to the bootstrap grid system.  Therefore, the col will stack on top of each other when forced to shrink on a smaller display.*
 
