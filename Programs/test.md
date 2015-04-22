@@ -3,8 +3,8 @@ Markdown test
 
 This is a test for Markdown capabilities.
 
-# Header 1
-## Header 2
+# Header 1 (don't use!)
+## Header 2 (used in Table of Contents)
 ### Header 3
 #### Header 4
 ##### Header 5
@@ -126,6 +126,21 @@ Content Cell  | Content Cell
 
 :smiley:
 :sunglasses:
+
+# Columns
+
+Extended markdown for layout purposes.
+
+## Two Column layout
+
+[row start]
+[col start]
+First column
+[col end]
+[col start]
+Second column
+[col end]
+[row end]
 
 # Injection is not allowed
 
