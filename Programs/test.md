@@ -44,6 +44,12 @@ This is an image!
         3. One more for good measure
     * Here is the continuation
 
+## Horizontal Rule
+
+Before
+----------
+After
+
 ## Checklist
 
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
