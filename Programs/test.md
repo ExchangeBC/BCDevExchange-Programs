@@ -21,7 +21,7 @@ Here is some cool `monospaced` text.
 This is an image!
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-# Lists
+## Lists
 - This
 - is
 - a
@@ -59,13 +59,13 @@ After
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
-# Blockquote
+## Blockquote
 
 > You miss 100% of the shots you don't take.
 >
 > -Wayne Gretzky
 
-# URLs
+## URLs
 
 ## Autolinking
 http://example.com
@@ -73,7 +73,7 @@ http://example.com
 ## Syntax
 [Github](http://github.com)
 
-# Code
+## Code
 
 This is a plain code block:
 
@@ -101,7 +101,7 @@ function fancyAlert(arg) {
 }
 ```
 
-# Tables
+## Tables
 First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
@@ -122,16 +122,16 @@ Content Cell  | Content Cell
 | Help      | ~~Display the~~ help window.|
 | Close     | _Closes_ a window     |
 
-# Emoji
+## Emoji
 
 :smiley:
 :sunglasses:
 
-# Columns
+## Columns
 
 Extended markdown for layout purposes.
 
-## Two Column layout
+### Two Column layout
 
 [row start]
 [col start]
@@ -142,7 +142,66 @@ Second column
 [col end]
 [row end]
 
-# Injection is not allowed
+### Three Column Layout
+[row start]
+[col start]
+First column
+[col end]
+[col start]
+Second column
+[col end]
+[col start]
+Third column
+[col end]
+[row end]
+
+### Four Column Layout
+[row start]
+[col start]
+First column
+[col end]
+[col start]
+Second column
+[col end]
+[col start]
+Third column
+[col end]
+[col start]
+Fourth column
+[col end]
+[row end]
+
+### Empty Columns
+[row start]
+[col start]
+[col end]
+[col start]
+Second column
+[col end]
+[col start]
+Third column
+[col end]
+[col start]
+[col end]
+[row end]
+
+### Multi Row Columns
+[row start]
+[col start]
+[col end]
+[col start]
+Second column
+[col end]
+[row end]
+[row start]
+[col start]
+First column
+[col end]
+[col start]
+[col end]
+[row end]
+
+## Injection is not allowed
 
 Filtered out or encoded:
 
