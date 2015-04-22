@@ -108,7 +108,7 @@ First column
 
 * but spaced out a bit
 
-1. This list
+1. This list  (not supported)
 2. Is numbered
 3. Indeed
 
@@ -127,7 +127,7 @@ Before
 
 After
 
-## Checklist
+## Checklist  (not supported)
 
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
@@ -142,7 +142,7 @@ After
 
 ## URLs
 
-## Autolinking
+## Autolinking (not supported)
 http://example.com
 
 ## Syntax
@@ -176,7 +176,7 @@ function fancyAlert(arg) {
 }
 ```
 
-## Tables
+## Tables (not supported)
 First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
@@ -197,12 +197,12 @@ Content Cell  | Content Cell
 | Help      | ~~Display the~~ help window.|
 | Close     | _Closes_ a window     |
 
-## Emoji
+## Emoji (not supported)
 
 :smiley:
 :sunglasses:
 
-## Injection is not allowed
+## XSS Injection (not allowed)
 
 Filtered out or encoded:
 
