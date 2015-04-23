@@ -55,7 +55,7 @@ Example Program is an example program that is trying to encourange engagement wi
 
 <!---[col start]--->
 
-###You've got mail
+###You've got mail @fa-envelope-o
 - 2 Direct push listings need attention
 - 1 Exporation trial request needs attention
 - 1 Sprint with use request needs attention
