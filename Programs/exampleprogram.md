@@ -9,9 +9,7 @@ text following will be rendered as normal text paragraph
 
 ![logo](https://raw.githubusercontent.com/BCDevExchange/BCDevExchange-Programs/master/Logos/govtogetherbc.png)
 
-Example Program is an example program that is trying to encourange engagement with things - to listen, get informed, and speak up.
-It supports the Program Owner in its objective to become more transparent and accessible.
-The Program goal is to let people know what's being talked and help them get involved.
+Example Program is an example program that is trying to encourange engagement with things - to listen, get informed, and speak up. It supports the Program Owner in its objective to become more transparent and accessible. The Program goal is to let people know what's being talked and help them get involved.
 
 ##At a Glance
 <!--- this contains all of the stuff on the first page, dashboard / roll up information --->
