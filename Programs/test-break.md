@@ -2,18 +2,20 @@ A Page to Test the Boundaries of the Markdown->Html
 
 ### Bad Columns
 
-An unterminated row
+An unterminated row is hidden
 
 [row start]
 lalallala
 
 ----------
 
-An unterminated column
+An unterminated column 
 
 [row start]
 [col start]
-inside the column
+inside the first column
+[col start]
+inside the second column
 [row end]
 
 ### Another section
