@@ -142,11 +142,23 @@ After
 
 ## URLs
 
-## Autolinking (not supported)
+### Autolinking (not supported)
 http://example.com
 
-## Syntax
+### Syntax
 [Github](http://github.com)
+
+## Font Awesome
+Regular size:
+@fa-github
+
+Wrapped in header
+# @fa-coffee
+## @fa-diamond
+### @fa-desktop
+#### @fa-flask
+##### @fa-inbox
+###### @fa-mobile
 
 ## Code
 
@@ -220,6 +232,3 @@ In a image:
 
 UTF-7 injection:
 +ADw-SCRIPT+AD4-alert('XSS');+ADw-/SCRIPT+AD4-
-
-## Font Awesome
-@fa-github
