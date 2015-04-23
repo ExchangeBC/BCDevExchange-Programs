@@ -47,3 +47,10 @@
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/test.md
   visible: no
 
+-
+  title: Bad Markdown
+  description: A test page for really bad markdown
+  owner: BCDevExchange
+  tags:
+  url: BCDevExchange/BCDevExchange-Programs/contents/Programs/test-break.md
+  visible: no
