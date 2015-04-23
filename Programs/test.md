@@ -149,16 +149,16 @@ http://example.com
 [Github](http://github.com)
 
 ## Font Awesome
-Regular size:
-@fa-github
+### Regular size
+[fa-github]
+[fa-diamond ]
+[fa-exclamation-triangle]
 
-Wrapped in header
-# @fa-coffee
-## @fa-diamond
-### @fa-desktop
-#### @fa-flask
-##### @fa-inbox
-###### @fa-mobile
+### Custom font sizes
+[fa-github 22]
+[fa-diamond 44]
+[fa-coffee 66]
+
 
 ## Code
 
