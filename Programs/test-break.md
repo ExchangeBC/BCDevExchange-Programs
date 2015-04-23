@@ -18,6 +18,17 @@ inside the first column
 inside the second column
 [row end]
 
+----------
+
+Mixed case
+
+[ROW START]
+[COL STaRT]
+inside column one
+[COL end]
+[row END]
+
+
 ### Another section
 
 ### Bad Images
