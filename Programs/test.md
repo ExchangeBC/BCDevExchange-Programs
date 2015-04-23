@@ -148,16 +148,22 @@ http://example.com
 ### Syntax
 [Github](http://github.com)
 
-## Font Awesome
+## Font Awesome and Glyphicons
 ### Regular size
 [fa-github]
 [fa-diamond ]
 [fa-exclamation-triangle]
+[glyphicon-envelope]
+[glyphicon-pencil]
+[glyphicon-info-sign]
 
 ### Custom font sizes
 [fa-github 22]
 [fa-diamond 44]
 [fa-coffee 66]
+[glyphicon-envelope 22]
+[glyphicon-pencil 44]
+[glyphicon-info-sign 66]
 
 
 ## Code
