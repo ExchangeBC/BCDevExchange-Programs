@@ -220,3 +220,6 @@ In a image:
 
 UTF-7 injection:
 +ADw-SCRIPT+AD4-alert('XSS');+ADw-/SCRIPT+AD4-
+
+## Font Awesome
+@fa-github
