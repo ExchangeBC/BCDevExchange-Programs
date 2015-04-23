@@ -14,7 +14,7 @@ This sentence has some *emphasis*, and it also **embiggens** the smallest man.
 
 I like to use greater than > or less than < symbols.
 
-~~Mistaken text.~~
+~~Mistaken text.~~ (Not Supported)
 
 Here is some cool `monospaced` text.
 
