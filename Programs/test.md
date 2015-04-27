@@ -157,13 +157,29 @@ http://example.com
 [glyphicon-pencil]
 [glyphicon-info-sign]
 
-### Custom font sizes
-[fa-github 22]
-[fa-diamond 44]
-[fa-coffee 66]
-[glyphicon-envelope 22]
-[glyphicon-pencil 44]
-[glyphicon-info-sign 66]
+### Custom sizes sizes
+
+Available sizes are:
+- Small
+- Medium
+- Large
+- Giant
+
+#### Small
+[fa-github small]
+[glyphicon-envelope small]
+
+#### Medium
+[fa-diamond medium]
+[glyphicon-pencil medium]
+
+#### Large
+[fa-coffee large]
+[glyphicon-info-sign large]
+
+#### Giant
+[fa-bolt giant]
+[glyphicon-glyphicon-file giant]
 
 
 ## Code
