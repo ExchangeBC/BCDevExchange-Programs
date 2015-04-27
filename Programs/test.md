@@ -179,7 +179,7 @@ Available sizes are:
 
 #### Giant
 [fa-bolt giant]
-[glyphicon-glyphicon-file giant]
+[glyphicon-file giant]
 
 
 ## Code
