@@ -157,7 +157,7 @@ http://example.com
 [glyphicon-pencil]
 [glyphicon-info-sign]
 
-### Custom sizes sizes
+### Custom sizes
 
 #### Small
 [fa-github small]
