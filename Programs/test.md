@@ -159,12 +159,6 @@ http://example.com
 
 ### Custom sizes sizes
 
-Available sizes are:
-- Small
-- Medium
-- Large
-- Giant
-
 #### Small
 [fa-github small]
 [glyphicon-envelope small]
