@@ -1,7 +1,7 @@
 Markdown test
 =============
 
-This is a test for Markdown capabilities.
+This is a test for Markdown capabilities.  So easy!
 
 # Header 1 (don't use!)
 ## Header 2 (used in Table of Contents)
