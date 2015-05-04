@@ -9,8 +9,6 @@ text following will be rendered as normal text paragraph
 
 <a rel="Exploration" href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"><img alt="Being designed and built, but in the lab. May change, disappear, or be buggy." style="border-width:0" src="https://bcdevexchange.org/badge/2.svg" title="Being designed and built, but in the lab. May change, disappear, or be buggy." /></a>
 
-![logo](https://raw.githubusercontent.com/BCDevExchange/BCDevExchange-Programs/master/Logos/govtogetherbc.png)
-
 Example Program is an example program that is trying to encourange engagement with things - to listen, get informed, and speak up. It supports the Program Owner in its objective to become more transparent and accessible. The Program goal is to let people know what's being talked and help them get involved.
 
 ##At a Glance
