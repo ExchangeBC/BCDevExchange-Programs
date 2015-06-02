@@ -9,6 +9,8 @@ text following will be rendered as normal text paragraph
 
 <a rel="Exploration" href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"><img alt="Being designed and built, but in the lab. May change, disappear, or be buggy." style="border-width:0" src="https://bcdevexchange.org/badge/2.svg" title="Being designed and built, but in the lab. May change, disappear, or be buggy." /></a>
 
+![BC Laws Logo](https://raw.githubusercontent.com/BCDevExchange/BCDevExchange-Programs/master/Programs/Logos/bclaws.jpg)
+
 ## Welcome to BC Laws
 
 BC Laws is a new platform developed by the Queen's Printer of British Columbia for creating and interacting with highly structured documents.
