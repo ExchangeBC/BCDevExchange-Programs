@@ -36,6 +36,18 @@
   visible: yes
 
 -
+  title: BC Laws
+  description: BC Laws is a new platform developed by the Queen's Printer of British Columbia for creating and interacting with highly structured documents.
+  owner: BCDevExchange
+  tags:
+    - Engagement
+    - Participation
+    - Collaboration
+    - BC Government
+  url: BCDevExchange/BCDevExchange-Programs/contents/Programs/bclaws.md
+  visible: no
+  
+-
   title: Hidden project
   description: If you can see this, the filter isn't working
   owner: BCDevExchange
