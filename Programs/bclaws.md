@@ -48,9 +48,9 @@ Opportunity for Schema Developer to research the nuances of bylaw information in
 <!---[col start]--->
 
 ### Contacting the Team
-- For technical assistance contact Dwayne Gordon
+- For technical assistance contact [Dwayne Gordon](mailto:dwayne.gordon@gov.bc.ca).
 - For front-line support contact the Queen's Printer call centre.
-- For legislative support of municipal opportunities contact Amar Sihota
+- For legislative support of municipal opportunities contact [Amar Sihota](mailto:amar.sihota@gov.bc.ca).
 
 <!---[col end]--->
 
@@ -63,26 +63,3 @@ Opportunity for Schema Developer to research the nuances of bylaw information in
 <!---[col end]--->
 
 <!---[row end]---> 
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
