@@ -11,27 +11,15 @@ text following will be rendered as normal text paragraph
 
 ![BC Laws Logo](https://raw.githubusercontent.com/BCDevExchange/BCDevExchange-Programs/master/Programs/Logos/bclaws.jpg)
 
-### Welcome to BC Laws on the BCDevExchange
+## Welcome to BC Laws
 
-<!---[row start]---> 
+### BC Laws News
+Now available Corporate Registry Notices - includes notices of company and extra-provincial company filings. The registry includes data from January 2003 to present.
 
-<!---[col start]--->
-
-## News
-Now available: Corporate Registry Notices - includes notices of company and extra-provincial company filings. The registry includes data from January 2003 to present.
-
-<!---[col end]--->
-
-<!---[col start]--->
-
-## API Links
+## BC Laws API Links
 - [Documentation](http://www.bclaws.ca/civix/template/complete/api/index.html)
 - [Goodbye QPLegalEze; Welcome Open Law](http://www.slaw.ca/2014/04/23/goodbye-qplegaleze-welcome-open-law/)
 - [BC legislation now free at BC Laws](http://blogs.library.uvic.ca/index.php/lawlibnews/bc-legislation-now-free-at)
-- 
-<!---[col end]--->
-
-<!---[row end]---> 
 
 ## Long term plans
 The Queen's Printer is currently exploring the possibility of partnering with municipal jurisdictions to leverage the tools already created for the provincial platform. This would allow a common interface to citizens under a common legislative schema for all legislative data that pertains to them municipally and provincially. It would also allow companies that use the BCLaws API to rapidly redeploy their work onto the municipal level.
