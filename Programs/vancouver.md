@@ -24,10 +24,16 @@ Now available: Vancouver launched its open data catalogue and has 130 datasets a
 
 <!---[col start]--->
 
-##API Links
-- [Documentation](http://www.bclaws.ca/civix/template/complete/api/index.html)
-- [Goodbye QPLegalEze; Welcome Open Law](http://www.slaw.ca/2014/04/23/goodbye-qplegaleze-welcome-open-law/)
-- [BC legislation now free at BC Laws](http://blogs.library.uvic.ca/index.php/lawlibnews/bc-legislation-now-free-at)
+##Top Data
+New datasets are being introduced on an on-going basis and include:
+
+- Garbage collection
+- Tide monitoring 
+- Bike trail 
+- Parking 
+- Business licenses (and other licensing)
+- Spatial data 
+
 
 <!---[col end]--->
 
@@ -41,15 +47,15 @@ We identified data that was of most interest to the community and that had alrea
 <!---[col start]--->
 
 ##Collaborate
-Opportunity for Schema Developer to research the nuances of bylaw information in commonwealth jurisdictions and capture these nuances within a municipal namespace then integrate this content into the current provincial regulation and statute schema structure.
+Opportunity for Schema Developer to connected and build out their applications by leveraging City of Vancouver open data.
 
 <!---[col end]--->
 
 <!---[col start]--->
 
 ##Sprint/Product Backlog
-- Moving Proclamations content onto the BCLaws platform
-- Moving historical Statute and Regulation content onto the BCLaws platform
+- Moving Opean API platform
+- Moving Bylaw content onto the BCLaws platform
 - Fixing hit highlighting for field searches
 - Creating richer meta-data for content browsing API
 - Standardizing schema for drafting tool
@@ -63,26 +69,23 @@ Opportunity for Schema Developer to research the nuances of bylaw information in
 <!---[col start]--->
 
 ##Contacting the Team
-- For technical assistance contact [Dwayne Gordon](mailto:dwayne.gordon@gov.bc.ca).
-- For front-line support contact the Queen's Printer call centre.
-- For legislative support of municipal opportunities contact [Amar Sihota](mailto:amar.sihota@gov.bc.ca).
+- For technical assistance contact [Darth Vader](mailto:Todd.wilson@gov.bc.ca).
+- For front-line support contact the City of Vancouver call centre.
+- For legislative support of municipal opportunities contact [Yoda](mailto:Todd.WIlson@gov.bc.ca).
 
 <!---[col end]--->
 
 <!---[col start]--->
 
-##BC Laws Community
-- [User Guide](http://www.bclaws.ca/UserGuide.pdf)
-- [Queen's Printer License](http://www.bclaws.ca/standards/2014/QP-License_1.0.html)
+##Vancouver Community
+- [Open Data Catalogue](http://vancouver.ca/your-government/open-data-catalogue.aspx)
+- [Share your views on opwn data](http://vancouver.ca/your-government/open-data-survey.aspx)
  
 <!---[col end]--->
 
 <!---[row end]---> 
 
 ##Background Info
-BC Laws is a new platform developed by the Queen's Printer of British Columbia for creating and interacting with highly structured documents.
-BC Laws is the British Columbia government portal for accessing BC provincial legislation. Traditionally jurisdictions have created  legislative information online using standard word processing tools and accessed that content through traditional web methods using html or pdf. BC Laws is an attempt to modernize this process.
- 
-Custom drafting tools have been created to allow legislative drafters to create feature rich content in machine consumable format, XML. This information in then published online through an Application Programmer Interface (API) that allows granular access and reporting on this legislative content. Building on this access to legislation all content has been released under a permissive license encouraging citizens and companies to create new value added services for citizen legislative access.
+in September 2013, the City adopted the Canadian Open Government Licence (OGL). It gives users consistent terms for accessing and using government data, making it easier to combine, integrate, and share data from multiple providers across Canada. This is a major step towards encouraging wider use of open data and delivering more value to the public. Vancouver joins the Government of Canada, Provinces of BC, Alberta, and Ontario, and the cities of Nanaimo, Edmonton, and Toronto in adopting the OG
 
 

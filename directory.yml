@@ -46,7 +46,18 @@
     - BC Government
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/bclaws.md
   visible: no
-  
+-
+  title: Vancouver
+  description: Vancouver launched its open data catalogue and has 130 datasets available in its catalogue.
+  owner: BCDevExchange
+  tags:
+    - Engagement
+    - Participation
+    - Collaboration
+    - Municipal Government
+  url: BCDevExchange/BCDevExchange-Programs/contents/Programs/vancouver.md
+  visible: no
+    
 -
   title: Hidden project
   description: If you can see this, the filter isn't working
