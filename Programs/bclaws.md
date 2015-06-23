@@ -11,31 +11,43 @@ text following will be rendered as normal text paragraph
 
 ![BC Laws Logo](https://raw.githubusercontent.com/BCDevExchange/BCDevExchange-Programs/master/Programs/Logos/bclaws.jpg)
 
-## Welcome to BC Laws
+#Welcome to BC Laws on the BCDevExchange
 
-### BC Laws News
-Now available Corporate Registry Notices - includes notices of company and extra-provincial company filings. The registry includes data from January 2003 to present.
+<!---[row start]---> 
 
-## BC Laws API Links
+<!---[col start]--->
+
+##News
+Now available: Corporate Registry Notices - includes notices of company and extra-provincial company filings. The registry includes data from January 2003 to present.
+
+<!---[col end]--->
+
+<!---[col start]--->
+
+##API Links
 - [Documentation](http://www.bclaws.ca/civix/template/complete/api/index.html)
 - [Goodbye QPLegalEze; Welcome Open Law](http://www.slaw.ca/2014/04/23/goodbye-qplegaleze-welcome-open-law/)
 - [BC legislation now free at BC Laws](http://blogs.library.uvic.ca/index.php/lawlibnews/bc-legislation-now-free-at)
 
-## Long term plans
+<!---[col end]--->
+
+<!---[row end]---> 
+
+##Long term plans
 The Queen's Printer is currently exploring the possibility of partnering with municipal jurisdictions to leverage the tools already created for the provincial platform. This would allow a common interface to citizens under a common legislative schema for all legislative data that pertains to them municipally and provincially. It would also allow companies that use the BCLaws API to rapidly redeploy their work onto the municipal level.
 
 <!---[row start]---> 
 
 <!---[col start]--->
 
-### Collaborate
+##Collaborate
 Opportunity for Schema Developer to research the nuances of bylaw information in commonwealth jurisdictions and capture these nuances within a municipal namespace then integrate this content into the current provincial regulation and statute schema structure.
 
 <!---[col end]--->
 
 <!---[col start]--->
 
-## Sprint/Product Backlog
+##Sprint/Product Backlog
 - Moving Proclamations content onto the BCLaws platform
 - Moving historical Statute and Regulation content onto the BCLaws platform
 - Fixing hit highlighting for field searches
@@ -50,7 +62,7 @@ Opportunity for Schema Developer to research the nuances of bylaw information in
 
 <!---[col start]--->
 
-### Contacting the Team
+##Contacting the Team
 - For technical assistance contact [Dwayne Gordon](mailto:dwayne.gordon@gov.bc.ca).
 - For front-line support contact the Queen's Printer call centre.
 - For legislative support of municipal opportunities contact [Amar Sihota](mailto:amar.sihota@gov.bc.ca).
@@ -59,7 +71,7 @@ Opportunity for Schema Developer to research the nuances of bylaw information in
 
 <!---[col start]--->
 
-### BC Laws Community
+##BC Laws Community
 - [User Guide](http://www.bclaws.ca/UserGuide.pdf)
 - [Queen's Printer License](http://www.bclaws.ca/standards/2014/QP-License_1.0.html)
  
