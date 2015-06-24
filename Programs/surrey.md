@@ -20,7 +20,7 @@ text following will be rendered as normal text paragraph
 ##News
 
 - [Cool stuff we're excited about](http://data.surrey.ca/related)
-- [Surrey has joined the BC Developers' Exchange](http://vancouver.ca/your-government/open-data-catalogue.aspx)
+- [Surrey has joined the BC Developers' Exchange](http://data.surrey.ca/contact)
 
 <!---[col end]--->
 
@@ -47,8 +47,9 @@ Our most popular datasets for the 14 days are:
 <!---[col start]--->
 
 ##Collaborate
-Opportunity for Schema Developer to connected and build out their applications by leveraging City of Vancouver open data.
+Opportunity for Schema Developer to connected and build out their applications by leveraging City of Surrey open data.
 
+- [Open Data API](http://data.surrey.ca/pages/city-of-surrey-open-data-api)
 - Join us on [GitHub](https://github.com/bcdevexchange)
 - Other Municipalities 
 
@@ -80,18 +81,26 @@ Opportunity for Schema Developer to connected and build out their applications b
 
 <!---[col start]--->
 
-##Vancouver Community
-- [Open Data Catalogue](http://vancouver.ca/your-government/open-data-catalogue.aspx)
-- [Share your views on opwn data](http://vancouver.ca/your-government/open-data-survey.aspx)
+##Surrey Community
+- [Open Data Catalogue](http://data.surrey.ca/dataset)
+- [Suggest an open dataset](http://data.surrey.ca/suggest)
  
 <!---[col end]--->
 
 <!---[row end]---> 
 
 ##Long term plans
-We identified data that was of most interest to the community and that had already been vetted through many of the legal, business, and technical processes required to make information publicly available. This turned out to be much of the spatial data that we currently publish through VanMap, which is our public mapping portal.
+Surrey’s Open Data Program is one component of our commitment to be an open, transparent and accessible government.  Open Data is the idea that certain data should be freely available to everyone to use and republish as they wish, without restrictions.  The goal of open data is to:
+ 
+- Empower citizens 
+- Help small businesses 
+- Enable socio-economic development (health care, education, economic productivity, and scientific research), which is accelerated by better access to data
+- Create value in some other positive unforeseen way
+- See more [here](http://www.surrey.ca/city-services/658.aspx#sthash.gx1TbvzS.dpuf)
+
+
 
 ##Background Info
-in September 2013, the City adopted the Canadian Open Government Licence (OGL). It gives users consistent terms for accessing and using government data, making it easier to combine, integrate, and share data from multiple providers across Canada. This is a major step towards encouraging wider use of open data and delivering more value to the public. Vancouver joins the Government of Canada, Provinces of BC, Alberta, and Ontario, and the cities of Nanaimo, Edmonton, and Toronto in adopting the OG
+We have a great [FAQ section](http://data.surrey.ca/pages/faq) on our Open Data Catalogue - check it out!
 
 
