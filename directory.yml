@@ -46,6 +46,7 @@
     - BC Government
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/bclaws.md
   visible: no
+
 -
   title: Vancouver
   description: Vancouver launched its open data catalogue and has 130 datasets available in its catalogue.
@@ -60,7 +61,7 @@
 
 -
   title: Surrey
-  description: Welcome to the City of Surrey’s BC DevExchange profile!
+  description: Welcome to the City of Surrey’s BC DevExchange profile.
   owner: BCDevExchange
   tags:
     - Engagement
