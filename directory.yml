@@ -57,7 +57,19 @@
     - Municipal Government
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/vancouver.md
   visible: no
-    
+
+-
+  title: Surrey
+  description: Welcome to the City of Surrey’s BC DevExchange profile!
+  owner: BCDevExchange
+  tags:
+    - Engagement
+    - Participation
+    - Collaboration
+    - Municipal Government
+  url: BCDevExchange/BCDevExchange-Programs/contents/Programs/surrey.md
+  visible: no
+        
 -
   title: Hidden project
   description: If you can see this, the filter isn't working
