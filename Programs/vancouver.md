@@ -18,14 +18,16 @@ text following will be rendered as normal text paragraph
 <!---[col start]--->
 
 ##News
-Now available: Vancouver launched its open data catalogue and has 130 datasets available.
+
+- [LiDAR 2013 Now Available](http://data.vancouver.ca/datacatalogue/LiDAR2013.htm)
+- [We have an ever growing data catalogue of Open Data, check out our recent additions.](http://vancouver.ca/your-government/open-data-catalogue.aspx)
 
 <!---[col end]--->
 
 <!---[col start]--->
 
 ##Top Data
-New datasets are being introduced on an on-going basis and include:
+Our most popular datasets for 2015 are:
 
 - Garbage collection
 - Tide monitoring 
@@ -34,13 +36,13 @@ New datasets are being introduced on an on-going basis and include:
 - Business licenses (and other licensing)
 - Spatial data 
 
+[Submit your new ideas for Open Datasets!](http://vancouver.ca/your-government/open-data-survey.aspx)
+
 
 <!---[col end]--->
 
 <!---[row end]---> 
 
-##Long term plans
-We identified data that was of most interest to the community and that had already been vetted through many of the legal, business, and technical processes required to make information publicly available. This turned out to be much of the spatial data that we currently publish through VanMap, which is our public mapping portal.
 
 <!---[row start]---> 
 
@@ -49,12 +51,15 @@ We identified data that was of most interest to the community and that had alrea
 ##Collaborate
 Opportunity for Schema Developer to connected and build out their applications by leveraging City of Vancouver open data.
 
+- Join us on [GitHub](https://github.com/bcdevexchange)
+- Other Municipalities 
+
 <!---[col end]--->
 
 <!---[col start]--->
 
 ##Sprint/Product Backlog
-- Moving Opean API platform
+- Moving Open API platform
 - Moving Bylaw content onto the BCLaws platform
 - Fixing hit highlighting for field searches
 - Creating richer meta-data for content browsing API
@@ -84,6 +89,9 @@ Opportunity for Schema Developer to connected and build out their applications b
 <!---[col end]--->
 
 <!---[row end]---> 
+
+##Long term plans
+We identified data that was of most interest to the community and that had already been vetted through many of the legal, business, and technical processes required to make information publicly available. This turned out to be much of the spatial data that we currently publish through VanMap, which is our public mapping portal.
 
 ##Background Info
 in September 2013, the City adopted the Canadian Open Government Licence (OGL). It gives users consistent terms for accessing and using government data, making it easier to combine, integrate, and share data from multiple providers across Canada. This is a major step towards encouraging wider use of open data and delivering more value to the public. Vancouver joins the Government of Canada, Provinces of BC, Alberta, and Ontario, and the cities of Nanaimo, Edmonton, and Toronto in adopting the OG
