@@ -59,16 +59,17 @@
   visible: no
     
 -
-  title: Hidden project
-  description: If you can see this, the filter isn't working
+  title: Surrey
+  description: Surrey is very excited to join hte BC Developers Exchange.
   owner: BCDevExchange
   tags:
-    - please
-    - hide
-    - me
-  url: BCDevExchange/BCDevExchange-Programs/contents/Programs/test.md
+    - Engagement
+    - Participation
+    - Collaboration
+    - Municipal Government
+  url: BCDevExchange/BCDevExchange-Programs/contents/Programs/surrey.md
   visible: no
-
+   
 -
   title: Bad Markdown
   description: A test page for really bad markdown
