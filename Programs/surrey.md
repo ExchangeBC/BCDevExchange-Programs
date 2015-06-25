@@ -90,7 +90,7 @@ Opportunity for Schema Developer to connected and build out their applications b
 <!---[row end]---> 
 
 ##Long term plans
-Surrey’s Open Data Program is one component of our commitment to be an open, transparent and accessible government.  Open Data is the idea that certain data should be freely available to everyone to use and republish as they wish, without restrictions.  The goal of open data is to:
+The Surrey Open Data Program is one component of our commitment to be an open, transparent and accessible government.  Open Data is the idea that certain data should be freely available to everyone to use and republish as they wish, without restrictions.  The goal of open data is to:
  
 - Empower citizens 
 - Help small businesses 
