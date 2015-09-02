@@ -58,7 +58,7 @@
     - Municipal Government
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/vancouver.md
   visible: no
-    
+
 -
   title: Surrey
   description: Surrey is very excited to join hte BC Developers Exchange.
@@ -70,11 +70,25 @@
     - Municipal Government
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/surrey.md
   visible: no
-   
+
 -
   title: Bad Markdown
   description: A test page for really bad markdown
   owner: BCDevExchange
   tags:
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/test-break.md
+  visible: no
+
+-
+  title: FirstVoices Dictionary
+  description: FirstVoices Dictionary is an online application supporting the language documentation and revitalization initiatives of the First Peoples' Cultural Foundation
+  owner: BCDevExchange
+  tags:
+    - Engagement
+    - Participation
+    - Collaboration
+    - FPCC
+    - FPCF
+    - BC Government
+  url: BCDevExchange/BCDevExchange-Programs/contents/Programs/first-voices-dictionary.md
   visible: no
