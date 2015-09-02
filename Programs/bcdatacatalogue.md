@@ -9,7 +9,7 @@ text following will be rendered as normal text paragraph
 
 <a rel="Inspiration" href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"><img alt="An idea being explored and shaped. Open for discussion, but may never go anywhere." style="border-width:0" src="http://bcdevexchange.org/badge/1.svg" title="An idea being explored and shaped. Open for discussion, but may never go anywhere." /></a>
 
-#Welcome to GeoCoder on the BCDevExchange
+#Welcome to BC Data Catalogue Dictionary on the BCDevExchange
 
 <!---[row start]---> 
 
@@ -61,7 +61,7 @@ Coming soon
 
 <!---[col start]--->
 
-##GeoCoder Community
+##BC Data Catalogue Community
 Coming soon
  
 <!---[col end]--->
@@ -69,6 +69,9 @@ Coming soon
 <!---[row end]---> 
 
 ##Background Info
-The BC Physical Address Geocoder web service locates and standardizes British Columbia civic addresses within your web pages and applications.  The Geocoder is a web service that is accessible via a REST application programming interface. The Geocoder REST API lets you integrate real-time standardization, validation, and geocoding of physical addresses into your own applications. If you plan to integrate the BC Physical Address Geocoder into your applications, we encourage you to contact us and ask to receive important updates about the Geocoder.
+The BC Data Catalogue (BCDC) provides information about (metadata), and access to  more than 3500 government datasets, web services (APIs) and online applications, including more than 1500 datasets licensed for commercial use under the Open Government License of BC.    The system provides both a web interface and APIs to help users search, understand and use datasets, web services (APIs) and online applications.    
+ 
+The open source code the province manages to power the system is available on GiHub. The system is based on the Comprehensive Knowledge Archive Network ( CKAN )  open source software project initiated by the Open Knowledge Foundation (OKF).   Over the next few months we are working to evolve our software development lifecycle (SDLC) to an open methodology that will share our development backlog.
+
 
 

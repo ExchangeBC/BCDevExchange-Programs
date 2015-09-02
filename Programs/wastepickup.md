@@ -9,7 +9,7 @@ text following will be rendered as normal text paragraph
 
 <a rel="Inspiration" href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"><img alt="An idea being explored and shaped. Open for discussion, but may never go anywhere." style="border-width:0" src="http://bcdevexchange.org/badge/1.svg" title="An idea being explored and shaped. Open for discussion, but may never go anywhere." /></a>
 
-#Welcome to GeoCoder on the BCDevExchange
+#Welcome to Waste Pickup Reminder on the BCDevExchange
 
 <!---[row start]---> 
 
@@ -61,7 +61,7 @@ Coming soon
 
 <!---[col start]--->
 
-##GeoCoder Community
+##Waste Pickup Reminder Community
 Coming soon
  
 <!---[col end]--->
@@ -69,6 +69,6 @@ Coming soon
 <!---[row end]---> 
 
 ##Background Info
-The BC Physical Address Geocoder web service locates and standardizes British Columbia civic addresses within your web pages and applications.  The Geocoder is a web service that is accessible via a REST application programming interface. The Geocoder REST API lets you integrate real-time standardization, validation, and geocoding of physical addresses into your own applications. If you plan to integrate the BC Physical Address Geocoder into your applications, we encourage you to contact us and ask to receive important updates about the Geocoder.
+The BC Physical Address Waste Pickup Reminder web service locates and standardizes British Columbia civic addresses within your web pages and applications.  The Waste Pickup Reminder is a web service that is accessible via a REST application programming interface. The Waste Pickup Reminder REST API lets you integrate real-time standardization, validation, and geocoding of physical addresses into your own applications. If you plan to integrate the BC Physical Address Waste Pickup Reminder into your applications, we encourage you to contact us and ask to receive important updates about the Waste Pickup Reminder.
 
 

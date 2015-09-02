@@ -48,7 +48,7 @@
   id: 55d51525b34bbbd841f689d4
   visible: yes
 -
-  title: Vancouver
+  title: City of Vancouver
   description: Vancouver launched its open data catalogue and has 130 datasets available in its catalogue.
   owner: BCDevExchange
   tags:
@@ -60,8 +60,8 @@
   visible: no
 
 -
-  title: Surrey
-  description: Surrey is very excited to join hte BC Developers Exchange.
+  title: City of Surrey
+  description: Surrey is very excited to join the BC Developers Exchange.
   owner: BCDevExchange
   tags:
     - Engagement
@@ -103,4 +103,28 @@
     - Collaboration
     - BC Government
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/geocoder.md
+  visible: no
+
+-
+  title: BC Data Catalogue
+  description: The BC Data Catalogue provides information and access to more than 3500 government datasets web services (APIs) and online applications.
+  owner: BCDevExchange
+  tags:
+    - Engagement
+    - Participation
+    - Collaboration
+    - BC Government
+  url: BCDevExchange/BCDevExchange-Programs/contents/Programs/bcdatacatalogue.md
+  visible: no
+
+-
+  title: Waste Pickup Reminder
+  description: Kamloops Innovation is collaborating with the City of Kamloops on ways to notify municipal residents when their garbage pickup day is.
+  owner: BCDevExchange
+  tags:
+    - Engagement
+    - Participation
+    - Collaboration
+    - Municipal Government
+  url: BCDevExchange/BCDevExchange-Programs/contents/Programs/wastepickup.md
   visible: no
