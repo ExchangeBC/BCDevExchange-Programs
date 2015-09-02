@@ -37,7 +37,7 @@
 
 -
   title: BC Laws
-  description: BC Laws is a new platform developed by the Queen's Printer of British Columbia for creating and interacting with highly structured documents.
+  description: BC Laws is a portal application that has been developed by the Queen's Printer of British Columbia to access BC provincial legislation.
   owner: BCDevExchange
   tags:
     - Engagement
@@ -89,6 +89,18 @@
     - Collaboration
     - FPCC
     - FPCF
+    - BC Government
+  url: BCDevExchange/BCDevExchange-Programs/contents/Programs/first-voices-dictionary.md
+  visible: no
+
+  -
+  title: Geocoder
+  description: The BC Physical Address Geocoder web service locates and standardizes British Columbia civic addresses within your web pages and applications.
+  owner: BCDevExchange
+  tags:
+    - Engagement
+    - Participation
+    - Collaboration
     - BC Government
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/first-voices-dictionary.md
   visible: no
