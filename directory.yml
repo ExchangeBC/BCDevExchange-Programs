@@ -94,7 +94,7 @@
   visible: no
 
 -
-  title: Geocoder
+  title: BC Physical Address Geocoder
   description: The BC Physical Address Geocoder web service locates and standardizes British Columbia civic addresses within your web pages and applications.
   owner: BCDevExchange
   tags:
