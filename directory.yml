@@ -19,7 +19,7 @@
     - Collaboration
     - BC Government
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/exampleprogram.md
-  visible: yes
+  visible: no
 
 -
   title: Test title
@@ -33,7 +33,7 @@
     - Collaboration
     - BC Government
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/test.md
-  visible: yes
+  visible: no
 
 -
   title: BC Laws
@@ -57,7 +57,7 @@
     - Collaboration
     - Municipal Government
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/vancouver.md
-  visible: no
+  visible: yes
 
 -
   title: City of Surrey
@@ -69,7 +69,7 @@
     - Collaboration
     - Municipal Government
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/surrey.md
-  visible: no
+  visible: yes
 
 -
   title: Bad Markdown
@@ -91,7 +91,7 @@
     - FPCF
     - BC Government
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/first-voices-dictionary.md
-  visible: no
+  visible: yes
 
 -
   title: BC Physical Address Geocoder
@@ -103,7 +103,7 @@
     - Collaboration
     - BC Government
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/geocoder.md
-  visible: no
+  visible: yes
 
 -
   title: BC Data Catalogue
@@ -115,7 +115,7 @@
     - Collaboration
     - BC Government
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/bcdatacatalogue.md
-  visible: no
+  visible: yes
 
 -
   title: Waste Pickup Reminder
@@ -127,7 +127,7 @@
     - Collaboration
     - Municipal Government
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/wastepickup.md
-  visible: no
+  visible: yes
 
 -
   title: Open511-DriveBC
@@ -139,4 +139,4 @@
     - Collaboration
     - BC Government
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/open511-drivebc.md
-  visible: no
+  visible: yes
