@@ -131,7 +131,7 @@
 
 -
   title: Open511-DriveBC
-  description: The Open511-DriveBC API serves DriveBC’s implementation of the Open511 Specification. for road incident construction and condition information.
+  description: The Open511-DriveBC API serves DriveBC's implementation of the Open511 Specification for road incident construction and condition information.
   owner: BCDevExchange
   tags:
     - Engagement
