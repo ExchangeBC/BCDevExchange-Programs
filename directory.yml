@@ -118,7 +118,7 @@
   visible: yes
 
 -
-  title: Waste Pickup Reminder
+  title: City of Kamloops
   description: Kamloops Innovation is collaborating with the City of Kamloops on ways to notify municipal residents when their garbage pickup day is.
   owner: BCDevExchange
   tags:
@@ -126,7 +126,7 @@
     - Participation
     - Collaboration
     - Municipal Government
-  url: BCDevExchange/BCDevExchange-Programs/contents/Programs/wastepickup.md
+  url: BCDevExchange/BCDevExchange-Programs/contents/Programs/cityofkamloops.md
   visible: yes
 
 -
