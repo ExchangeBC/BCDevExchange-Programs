@@ -57,7 +57,7 @@
     - Collaboration
     - Municipal Government
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/vancouver.md
-  visible: yes
+  visible: no
 
 -
   title: City of Surrey
@@ -119,7 +119,7 @@
 
 -
   title: City of Kamloops
-  description: Kamloops Innovation is collaborating with the City of Kamloops on ways to notify municipal residents when their garbage pickup day is.
+  description: The City of Kamloops has joined the BCDevExchange, profiling their open data which is now under the Open Government License - British Columbia.
   owner: BCDevExchange
   tags:
     - Engagement
@@ -131,7 +131,7 @@
 
 -
   title: Open511-DriveBC
-  description: Open511 is an API standard for road size event data.
+  description: The Open511-DriveBC API serves DriveBC’s implementation of the Open511 Specification. for road incident, construction and condition information.
   owner: BCDevExchange
   tags:
     - Engagement
