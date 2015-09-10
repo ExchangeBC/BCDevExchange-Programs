@@ -119,7 +119,7 @@
 
 -
   title: City of Kamloops
-  description: The City of Kamloops has joined the BCDevExchange, profiling their open data which is now under the Open Government License - British Columbia.
+  description: The City of Kamloops has joined the BCDevExchange profiling their open data which is now under the Open Government License - British Columbia.
   owner: BCDevExchange
   tags:
     - Engagement
@@ -131,7 +131,7 @@
 
 -
   title: Open511-DriveBC
-  description: The Open511-DriveBC API serves DriveBC’s implementation of the Open511 Specification. for road incident, construction and condition information.
+  description: The Open511-DriveBC API serves DriveBC’s implementation of the Open511 Specification. for road incident construction and condition information.
   owner: BCDevExchange
   tags:
     - Engagement
