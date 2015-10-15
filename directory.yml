@@ -57,7 +57,7 @@
     - Collaboration
     - Municipal Government
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/vancouver.md
-  visible: no
+  visible: yes
 
 -
   title: City of Surrey
@@ -139,4 +139,16 @@
     - Collaboration
     - BC Government
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/open511-drivebc.md
+  visible: yes
+
+-
+  title: BCDevExchange
+  description: BCDevExchange is an experiment; an idea that needs to be proven. We will test validate and refine the idea with tech entrepreneurs and early adopters in the public sector.
+  owner: BCDevExchange
+  tags:
+    - Engagement
+    - Participation
+    - Collaboration
+    - Municipal Government
+  url: BCDevExchange/BCDevExchange-Programs/contents/Programs/bcdevexchange.md
   visible: yes
