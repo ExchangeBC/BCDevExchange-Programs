@@ -155,11 +155,11 @@
 
 -
   title: Citizen Engagement Web Toolkit
-  description: Test
+  description: The Government of B.C.’s Citizen Engagement Branch is sharing its open source code developed for WordPress product roadmap and requirements backlog.
   owner: BCDevExchange
   tags:
     - Engagement
     - Participation
     - Collaboration
-#  url: BCDevExchange/BCDevExchange-Programs/contents/Programs/cityofkamloops.md
+  #url: BCDevExchange/BCDevExchange-Programs/contents/Programs/cityofkamloops.md
   visible: no
