@@ -155,7 +155,7 @@
 
 -
   title: Citizen Engagement Web Toolkit
-  description: The Government of B.C.’s Citizen Engagement Branch is sharing its open source code developed for WordPress, product roadmap, and requirements backlog.
+  description: The Government of B.C.’s Citizen Engagement Branch is sharing its open source code developed for WordPress product roadmap and requirements backlog.
   owner: BCDevExchange
   tags:
     - Engagement
@@ -166,7 +166,7 @@
 
 -
   title: Environmental Reporting BC
-  description: Environmental Reporting BC reports on provincial environmental indicators, sharing data, analysis and information on key environmental topics.
+  description: Environmental Reporting BC reports on provincial environmental indicators sharing data analysis and information on key environmental topics.
   owner: BCDevExchange
   tags:
     - Engagement
