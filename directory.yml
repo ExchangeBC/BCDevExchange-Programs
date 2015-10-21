@@ -152,3 +152,25 @@
     - Municipal Government
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/bcdevexchange.md
   visible: no
+
+-
+  title: Citizen Engagement Web Toolkit
+  description: The Government of B.C.’s Citizen Engagement Branch is sharing its open source code developed for WordPress, product roadmap, and requirements backlog.
+  owner: BCDevExchange
+  tags:
+    - Engagement
+    - Participation
+    - Collaboration
+#  url: BCDevExchange/BCDevExchange-Programs/contents/Programs/cityofkamloops.md
+  visible: no
+
+-
+  title: Environmental Reporting BC
+  description: Environmental Reporting BC reports on provincial environmental indicators, sharing data, analysis and information on key environmental topics.
+  owner: BCDevExchange
+  tags:
+    - Engagement
+    - Participation
+    - Collaboration
+#  url: BCDevExchange/BCDevExchange-Programs/contents/Programs/cityofkamloops.md
+  visible: no
