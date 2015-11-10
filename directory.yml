@@ -166,11 +166,11 @@
 
 -
   title: Environmental Reporting BC
-  description: Environmental Reporting BC reports on provincial environmental indicators, sharing data analysis, and information on key environmental topics.
+  description: Environmental Reporting BC provides access to scientific data and information about our environment and how it relates to British Columbians.
   owner: BCDevExchange
   tags:
     - Engagement
     - Participation
     - Collaboration
   #url: BCDevExchange/BCDevExchange-Programs/contents/Programs/cityofkamloops.md
-  visible: no
+  visible: yes
