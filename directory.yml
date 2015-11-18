@@ -172,5 +172,18 @@
     - Engagement
     - Participation
     - Collaboration
+    - BC Government
   #url: BCDevExchange/BCDevExchange-Programs/contents/Programs/cityofkamloops.md
+  visible: yes
+
+-
+  title: City of Victoria
+  description: Lorem Ipsum
+  owner: BCDevExchange
+  tags:
+    - Engagement
+    - Participation
+    - Collaboration
+    - Municipal Government
+  url: BCDevExchange/BCDevExchange-Programs/contents/Programs/victoria.md
   visible: yes
