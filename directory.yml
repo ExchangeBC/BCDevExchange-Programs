@@ -151,7 +151,7 @@
     - Collaboration
     - Municipal Government
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/bcdevexchange.md
-  visible: no
+  visible: yes
 
 -
   title: Citizen Engagement Web Toolkit
@@ -162,7 +162,7 @@
     - Participation
     - Collaboration
   #url: BCDevExchange/BCDevExchange-Programs/contents/Programs/cityofkamloops.md
-  visible: no
+  visible: yes
 
 -
   title: Environmental Reporting BC
