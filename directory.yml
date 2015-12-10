@@ -187,3 +187,15 @@
     - Municipal Government
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/victoria.md
   visible: no
+
+-
+  title: BC Assessment
+  description: Loren ipsum.
+  owner: BCDevExchange
+  tags:
+    - Engagement
+    - Participation
+    - Collaboration
+    - BC Government
+  #url: BCDevExchange/BCDevExchange-Programs/contents/Programs/cityofkamloops.md
+  visible: no
