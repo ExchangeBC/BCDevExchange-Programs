@@ -36,6 +36,41 @@
   visible: no
 
 -
+  title: BC Assessment
+  description: BC Assessment believes better access to propety information can create economic opportunities for companies across British Columbia.
+  owner: BCDevExchange
+  tags:
+    - Engagement
+    - Participation
+    - Collaboration
+    - Broader Public Sector
+  url: BCDevExchange/BCDevExchange-Programs/contents/Programs/bcassessment.md
+  visible: yes
+
+-
+  title: Citizen Engagement Web Toolkit
+  description: The Government of B.C.'s Citizen Engagement Branch is sharing its open source code developed for WordPress, product roadmap, and requirements backlog.
+  owner: BCDevExchange
+  tags:
+    - Engagement
+    - Participation
+    - Collaboration
+  #url: BCDevExchange/BCDevExchange-Programs/contents/Programs/cityofkamloops.md
+  visible: yes
+
+-
+  title: Environmental Reporting BC
+  description: Environmental Reporting BC provides access to scientific data and information about our environment and how it relates to British Columbians.
+  owner: BCDevExchange
+  tags:
+    - Engagement
+    - Participation
+    - Collaboration
+    - BC Government
+  #url: BCDevExchange/BCDevExchange-Programs/contents/Programs/cityofkamloops.md
+  visible: yes
+
+-
   title: BC Laws
   description: BC Laws is a portal application that has been developed by the Queen's Printer of British Columbia to access BC provincial legislation.
   owner: BCDevExchange
@@ -47,6 +82,7 @@
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/bclaws.md
   id: 55d51525b34bbbd841f689d4
   visible: yes
+  
 -
   title: City of Vancouver
   description: Vancouver released its Digital Strategy with commitments to support innovation and growth in local digital economy.
@@ -154,29 +190,6 @@
   visible: yes
 
 -
-  title: Citizen Engagement Web Toolkit
-  description: The Government of B.C.'s Citizen Engagement Branch is sharing its open source code developed for WordPress, product roadmap, and requirements backlog.
-  owner: BCDevExchange
-  tags:
-    - Engagement
-    - Participation
-    - Collaboration
-  #url: BCDevExchange/BCDevExchange-Programs/contents/Programs/cityofkamloops.md
-  visible: yes
-
--
-  title: Environmental Reporting BC
-  description: Environmental Reporting BC provides access to scientific data and information about our environment and how it relates to British Columbians.
-  owner: BCDevExchange
-  tags:
-    - Engagement
-    - Participation
-    - Collaboration
-    - BC Government
-  #url: BCDevExchange/BCDevExchange-Programs/contents/Programs/cityofkamloops.md
-  visible: yes
-
--
   title: City of Victoria
   description: Lorem Ipsum
   owner: BCDevExchange
@@ -188,14 +201,4 @@
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/victoria.md
   visible: no
 
--
-  title: BC Assessment
-  description: BC Assessment believes better access to propety information can create economic opportunities for companies across British Columbia.
-  owner: BCDevExchange
-  tags:
-    - Engagement
-    - Participation
-    - Collaboration
-    - Broader Public Sector
-  url: BCDevExchange/BCDevExchange-Programs/contents/Programs/bcassessment.md
-  visible: yes
+
