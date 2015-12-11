@@ -190,7 +190,7 @@
 
 -
   title: BC Assessment
-  description: Loren ipsum.
+  description: BC Assessment believes better access to propety information can create economic opportunities for companies across British Columbia.
   owner: BCDevExchange
   tags:
     - Engagement
@@ -198,4 +198,4 @@
     - Collaboration
     - Broader Public Sector
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/bcassessment.md
-  visible: no
+  visible: yes
