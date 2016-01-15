@@ -191,14 +191,14 @@
 
 -
   title: City of Victoria
-  description: Lorem Ipsum
+  description: The City is interesting in using technology and data to engage residents at a neighbourhood level.
   owner: BCDevExchange
   tags:
     - Engagement
     - Participation
     - Collaboration
     - Municipal Government
-  url: BCDevExchange/BCDevExchange-Programs/contents/Programs/victoria.md
+  url: BCDevExchange/BCDevExchange-Programs/contents/Programs/city%of%victoria.md
   visible: yes
 
 
