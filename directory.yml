@@ -14,10 +14,10 @@
   description: Example Program is the hub for engagement opportunitities that need people to participate - to listen, get informed, and speak up.
   owner: BCDevExchange
   tags:
-    - Engagement
-    - Participation
-    - Collaboration
-    - BC Government
+    - API
+    - Code
+    - Data
+    - Help Wanted
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/exampleprogram.md
   visible: no
 
@@ -29,9 +29,6 @@
     - Tag1
     - Tag2
     - Tag3
-    - Participation
-    - Collaboration
-    - BC Government
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/test.md
   visible: no
 
@@ -40,10 +37,7 @@
   description: BC Assessment believes better access to property information can create economic opportunities for companies across British Columbia.
   owner: BCDevExchange
   tags:
-    - Engagement
-    - Participation
-    - Collaboration
-    - Broader Public Sector
+    - Code
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/bcassessment.md
   visible: yes
 
@@ -52,10 +46,9 @@
   description: The Government of B.C.'s Citizen Engagement Branch is sharing its open source code developed for WordPress, product roadmap, and requirements backlog.
   owner: BCDevExchange
   tags:
-    - Engagement
-    - Participation
-    - Collaboration
-  #url: BCDevExchange/BCDevExchange-Programs/contents/Programs/cityofkamloops.md
+    - Code
+    - Help Wanted
+  url: BCDevExchange/BCDevExchange-Programs/contents/Programs/cityofkamloops.md
   visible: yes
 
 -
@@ -63,11 +56,9 @@
   description: Environmental Reporting BC provides access to scientific data and information about our environment and how it relates to British Columbians.
   owner: BCDevExchange
   tags:
-    - Engagement
-    - Participation
-    - Collaboration
-    - BC Government
-  #url: BCDevExchange/BCDevExchange-Programs/contents/Programs/cityofkamloops.md
+    - Code
+    - Data
+  url: BCDevExchange/BCDevExchange-Programs/contents/Programs/cityofkamloops.md
   visible: yes
 
 -
@@ -75,10 +66,8 @@
   description: BC Laws is a portal application that has been developed by the Queen's Printer of British Columbia to access BC provincial legislation.
   owner: BCDevExchange
   tags:
-    - Engagement
-    - Participation
-    - Collaboration
-    - BC Government
+    - API
+    - Code
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/bclaws.md
   id: 55d51525b34bbbd841f689d4
   visible: yes
@@ -88,10 +77,7 @@
   description: Vancouver released its Digital Strategy with commitments to support innovation and growth in the local digital economy.
   owner: BCDevExchange
   tags:
-    - Engagement
-    - Participation
-    - Collaboration
-    - Municipal Government
+    - Data
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/vancouver.md
   visible: yes
 
@@ -100,10 +86,8 @@
   description: Surrey is very excited to join the BC Developers' Exchange.
   owner: BCDevExchange
   tags:
-    - Engagement
-    - Participation
-    - Collaboration
-    - Municipal Government
+    - API
+    - Data
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/surrey.md
   visible: yes
 
@@ -121,11 +105,6 @@
   owner: BCDevExchange
   tags:
     - Engagement
-    - Participation
-    - Collaboration
-    - FPCC
-    - FPCF
-    - BC Government
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/first-voices-dictionary.md
   visible: yes
 
@@ -134,10 +113,7 @@
   description: The BC Physical Address Geocoder web service locates and standardizes British Columbia civic addresses within your web pages and applications.
   owner: BCDevExchange
   tags:
-    - Engagement
-    - Participation
-    - Collaboration
-    - BC Government
+    - API
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/geocoder.md
   visible: yes
 
@@ -146,10 +122,9 @@
   description: The BC Data Catalogue provides information and access to more than 3500 government datasets web services (APIs) and online applications.
   owner: BCDevExchange
   tags:
-    - Engagement
-    - Participation
-    - Collaboration
-    - BC Government
+    - API
+    - Code
+    - Data
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/bcdatacatalogue.md
   visible: yes
 
@@ -158,10 +133,8 @@
   description: The City of Kamloops has joined the BCDevExchange profiling their open data which is now under the Open Government License - British Columbia.
   owner: BCDevExchange
   tags:
-    - Engagement
-    - Participation
-    - Collaboration
-    - Municipal Government
+    - API
+    - Data
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/cityofkamloops.md
   visible: yes
 
@@ -170,10 +143,7 @@
   description: The Open511-DriveBC API serves DriveBC's implementation of the Open511 Specification for road incident construction and condition information.
   owner: BCDevExchange
   tags:
-    - Engagement
-    - Participation
-    - Collaboration
-    - BC Government
+    - API
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/open511-drivebc.md
   visible: yes
 
@@ -182,10 +152,7 @@
   description: BCDevExchange is an experiment; an idea that needs to be proven. We will test validate and refine the idea with tech entrepreneurs and early adopters in the public sector.
   owner: BCDevExchange
   tags:
-    - Engagement
-    - Participation
-    - Collaboration
-    - Municipal Government
+    - Code
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/bcdevexchange.md
   visible: yes
 
@@ -194,10 +161,7 @@
   description: The City is interested in using technology and data to engage residents at a neighbourhood level.
   owner: BCDevExchange
   tags:
-    - Engagement
-    - Participation
-    - Collaboration
-    - Municipal Government
+    - Data
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/city%of%victoria.md
   visible: yes
 
@@ -207,9 +171,6 @@
   owner: BCDevExchange
   tags:
     - API
-    - Participation
-    - Collaboration
-    - Municipal Government
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/TransLink.md
   visible: yes
 
