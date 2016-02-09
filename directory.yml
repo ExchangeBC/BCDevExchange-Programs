@@ -173,3 +173,11 @@
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/TransLink.md
   visible: yes
 
+-
+  title: Environmental Assessment Office
+  description: The Environmental Assessment Office (EAO) is an independent provincial agency responsible for conducting Environmental Assessments , and administering the B.C. Environmental Assessment Act.
+  owner: BCDevExchange
+  tags:
+    - Code
+  url: BCDevExchange/BCDevExchange-Programs/contents/Programs/EnvironmentalAssessmentOffice.md
+  visible: yes
