@@ -181,3 +181,12 @@
     - Code
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/cityofkamloops.md
   visible: yes
+
+-
+  title: Township of Langley
+  description: The Township of Langley is actively leveraging technology to reimagine service delivery to meet the changing needs and expectations of its many different stakeholders.
+  owner: BCDevExchange
+  tags:
+    - Data
+  url: BCDevExchange/BCDevExchange-Programs/contents/Programs/cityofkamloops.md
+  visible: yes
