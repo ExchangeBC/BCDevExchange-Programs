@@ -190,3 +190,11 @@
     - Data
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/cityofkamloops.md
   visible: yes
+
+-
+  title: DataBC Web Mapping
+  description: DataBC offers data connection services that allow users to view thousands of data layers from the BC Geographic Warehouse.
+  tags:
+    - Help Wanted
+  url: BCDevExchange/BCDevExchange-Programs/contents/Programs/cityofkamloops.md
+  visible: yes
