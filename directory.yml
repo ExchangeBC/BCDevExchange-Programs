@@ -47,7 +47,6 @@
   owner: BCDevExchange
   tags:
     - Code
-    - Help Wanted
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/cityofkamloops.md
   visible: yes
 
@@ -68,6 +67,7 @@
   tags:
     - API
     - Code
+    - Help Wanted
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/bclaws.md
   id: 55d51525b34bbbd841f689d4
   visible: yes
