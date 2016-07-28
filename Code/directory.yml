@@ -20,7 +20,6 @@
     - Help Wanted
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/exampleprogram.md
   visible: no
-
 -
   title: Test title
   description: Test description
@@ -40,6 +39,7 @@
     - Code
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/bcassessment.md
   visible: yes
+  githubUrl: https://github.com/BCDevExchange/bc-property-api-specification
 
 -
   title: Citizen Engagement Web Toolkit
@@ -49,6 +49,7 @@
     - Code
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/cityofkamloops.md
   visible: yes
+  githubUrl: https://github.com/bcgov/citizen-engagement-web-toolkit
 
 -
   title: Environmental Reporting BC
@@ -59,6 +60,7 @@
     - Data
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/cityofkamloops.md
   visible: yes
+  githubUrl: https://github.com/bcgov/EnvReportBC-RepoList
 
 -
   title: BC Laws
@@ -71,7 +73,8 @@
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/bclaws.md
   id: 55d51525b34bbbd841f689d4
   visible: yes
-  
+  githubUrl: https://github.com/bcgov/bc-laws-api
+
 -
   title: City of Vancouver
   description: Vancouver released its Digital Strategy with commitments to support innovation and growth in the local digital economy.
@@ -80,6 +83,7 @@
     - Data
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/vancouver.md
   visible: yes
+  githubUrl: undefined
 
 -
   title: City of Surrey
@@ -90,6 +94,7 @@
     - Data
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/surrey.md
   visible: yes
+  githubUrl: https://github.com/CityofSurrey
 
 -
   title: Bad Markdown
@@ -106,6 +111,7 @@
   tags:
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/first-voices-dictionary.md
   visible: yes
+  githubUrl: undefined
 
 -
   title: BC Physical Address Geocoder
@@ -115,6 +121,7 @@
     - API
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/geocoder.md
   visible: yes
+  githubUrl: undefined
 
 -
   title: BC Data Catalogue
@@ -126,6 +133,7 @@
     - Data
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/bcdatacatalogue.md
   visible: yes
+  githubUrl: https://github.com/bcgov/ckanext-bcgov
 
 -
   title: City of Kamloops
@@ -136,6 +144,7 @@
     - Data
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/cityofkamloops.md
   visible: yes
+  githubUrl: undefined
 
 -
   title: Open511-DriveBC
@@ -145,6 +154,7 @@
     - API
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/open511-drivebc.md
   visible: yes
+  githubUrl: https://github.com/bcgov/drivebc-webcam-api
 
 -
   title: BCDevExchange
@@ -154,6 +164,7 @@
     - Code
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/bcdevexchange.md
   visible: yes
+  githubUrl: https://github.com/BCDevExchange/BCDevExchange-app
 
 -
   title: City of Victoria
@@ -163,6 +174,7 @@
     - Data
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/city%of%victoria.md
   visible: yes
+  githubUrl: undefined
 
 -
   title: TransLink
@@ -172,6 +184,7 @@
     - API
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/TransLink.md
   visible: yes
+  githubUrl: undefined
 
 -
   title: Environmental Assessment Office
@@ -181,6 +194,7 @@
     - Code
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/cityofkamloops.md
   visible: yes
+  githubUrl: https://github.com/bcgov/esm-server
 
 -
   title: Township of Langley
@@ -190,7 +204,8 @@
     - Data
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/cityofkamloops.md
   visible: yes
-  
+  githubUrl: undefined
+
 -
   title: DataBC Web Mapping
   description: DataBC offers data connection services that allow users to view thousands of data layers from the BC Geographic Warehouse.
@@ -198,6 +213,7 @@
     - Help Wanted
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/cityofkamloops.md
   visible: yes
+  githubUrl: https://github.com/bcgov/databc-web-map-services
 
 -
   title: OCIO Tech Strategies
@@ -206,3 +222,4 @@
     - Help Wanted
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/cityofkamloops.md
   visible: yes
+  githubUrl: https://github.com/bcgov/interactive-infographic
