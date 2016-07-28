@@ -94,7 +94,7 @@
     - Data
   url: BCDevExchange/BCDevExchange-Programs/contents/Programs/surrey.md
   visible: yes
-  githubUrl: https://github.com/CityofSurrey
+  githubUrl: https://github.com/CityofSurrey/ckanext-surrey
 
 -
   title: Bad Markdown
